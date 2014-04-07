@@ -1,4 +1,4 @@
-require_relative "[Your file name here]" 
+require_relative "3_nums_commas" 
 #=> Make sure you change this to the name of your code file! Save that file
 # into this repo. 
 
